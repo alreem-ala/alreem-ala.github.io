@@ -1,4 +1,4 @@
-## My portfolio
+## Intro to DAAH
 This is a website made for the course IM-UH 1511.
 
 #### Why Should I Use This?
