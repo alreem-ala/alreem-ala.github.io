@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assignment 2
-excerpt: "Exploring Textual Data from a Custom Corpus "
+excerpt: "Exploring Textual Data from a Custom Corpus."
 modified: 1/31/2023, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
