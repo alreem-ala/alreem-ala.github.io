@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DLN
-excerpt: "Working with the metadata for an item in the Digital Library of the Middle East."
+excerpt: "Digital Literacy Narrative Assignment"
 modified: 1/31/2023, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
