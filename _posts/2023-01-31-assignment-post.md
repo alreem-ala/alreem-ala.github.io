@@ -9,7 +9,9 @@ category: blog
 ---
 
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
+In order to build a broader network of resources that can be accessed by the public, several libraries come together to form a system known as a federated library. One of the main advantages of a federated library is the ability to investigate links between items that might not be immediately visible and we can better grasp the cultural and historical setting in which these things were produced by analyzing them simultaneously.
+
+For this assignment, the two items I picked are from the category "Naturmort" which is "Still Life" in English.
 
 ## Table 
 | Syntax | Description |
