@@ -11,8 +11,11 @@ category: blog
 
 This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
 
-## Table of Contents
-A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
+## Table 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 ## Introduction
 A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
