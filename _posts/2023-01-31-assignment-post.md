@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Assignment 2
-excerpt: "Exploring Textual Data from a Custom Corpus."
+title: Assignment 1
+excerpt: "Working with the metadata for an item in the Digital Library of the Middle East."
 modified: 1/31/2023, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
