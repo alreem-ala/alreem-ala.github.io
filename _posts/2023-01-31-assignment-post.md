@@ -22,7 +22,7 @@ For this assignment, the two items I picked to analyze from the Digital Library 
 
 <img src="/assets/{images}.png" style="zoom:50%"/>
 
-![alt text](image.jpg)
+![alt text](image.png)
 
 
 
