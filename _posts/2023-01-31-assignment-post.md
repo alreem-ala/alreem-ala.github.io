@@ -12,7 +12,7 @@ category: blog
 ## Introduction
 In order to build a broader network of resources that can be accessed by the public, several libraries come together to form a system known as a federated library. One of the main advantages of a federated library is the ability to investigate links between items that might not be immediately visible and we can better grasp the cultural and historical setting in which these things were produced by analyzing them simultaneously.
 
-For this assignment, the two items I picked to analyze from yhr Digital Library of the Middle East are from the category "Naturmort" which is "Still Life" in English.
+For this assignment, the two items I picked to analyze from the Digital Library of the Middle East (DLME) are from the category "Naturmort" which is "Still Life" in English.
 
 ## Table 
 | Syntax | Description |
@@ -28,6 +28,6 @@ To start with, I found an item that is titled "Natürmort", I decided to look th
 
 Both of these items are made with the same materials/techniques, "Tuval üzerine yağlıboya", which is "Oil on Canvas". Nevertheless, we can see from the images that the item on the right has a thinner canvas than that on the right.
 
-As for the left painting, its measurements are 41 x 27 cm while the right painting is 73 x 60 cm. Given the metadata and the images, we can see that they're both painted vertically. Both are of type "Resim" (Picture), and come from the provenance "Akbank bağış" which indicates that they both originated from the same place. In addition, their holding institutions and data providers are also the same which is Sakip Sabanci Museum with rights to © Sabancı Üniversitesi Sakıp Sabancı Müzesi. Tüm hakları saklıdır.
+As for the left painting, its measurements are 41 x 27 cm while the right painting is 73 x 60 cm. Given the metadata and the images, we can see that they're both painted vertically. Both are of type "Resim" (Picture), and come from the provenance "Akbank bağış" which indicates that they both originated from the same place. In addition, their holding institutions and data providers are also the same which is Sakip Sabanci Museum with rights to © Sabancı Üniversitesi Sakıp Sabancı Müzesi. Tüm hakları saklıdır. Since both of these items come from the same museum, it makes complete sense that they are given the same categories of metadata.
 
-
+Interestingly, a search engine query of the museum where these paintings are in will display their website. However, they do not display all of their paintings as most of them are only found in the DLME. 
