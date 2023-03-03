@@ -20,7 +20,7 @@ For this assignment, the two items I picked to analyze from yhr Digital Library 
 | Header | Title |
 | Paragraph | Text |
 
-<img src="/assets/{images}.png" style="zoom:50%"/ ref="an image of the two items being analyzed">
+<img src="/assets/{images}.png" style="zoom:50%"/, alt="an image of the two items being analyzed">
 
 
 ## Analysis
