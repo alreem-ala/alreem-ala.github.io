@@ -17,8 +17,6 @@ For this assignment, the two items I picked to analyze from the Digital Library 
 
 <img src="/assets/images.png" style="zoom:50%"/>
 
-![alt text](image.png)
-
 
 ## Analysis
 To start with, I found an item that is titled "Natürmort", I decided to look that up to find a similar item to compare it to. For the two of these items, their metadata is in the original language which is Turkish. The item to the left is created by Elif Naci, whereas the item to the right is created by Akdik, Şeref in 1965. The item to the left is not given a date ("Tarihsiz") since it does not appear to be signed by the creator.
