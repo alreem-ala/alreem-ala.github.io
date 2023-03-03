@@ -20,7 +20,7 @@ For this assignment, the two items I picked to analyze from yhr Digital Library 
 | Header | Title |
 | Paragraph | Text |
 
-<img src="{images}.png" style="zoom:50%"/>
+<img src="/assets/{images}.png" style="zoom:50%"/>
 
 
 ## Analysis
