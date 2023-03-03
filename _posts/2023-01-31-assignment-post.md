@@ -15,10 +15,9 @@ In order to build a broader network of resources that can be accessed by the pub
 For this assignment, the two items I picked to analyze from the Digital Library of the Middle East (DLME) are from the category "Naturmort" which is "Still Life" in English.
 
 
-<img src="/assets/{images}.png" style="zoom:50%"/>
+<img src="/assets/images.png" style="zoom:50%"/>
 
 ![alt text](image.png)
-
 
 
 ## Analysis
