@@ -1,7 +1,7 @@
 ----
 layout: slide
 title: Final Unproject
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+excerpt: A Taste of Asia: Separating the Authentic from the Adapted in UAE Restaurants
 theme: serif
 transition: convex
 tags: [presentation]
