@@ -24,7 +24,7 @@ category: presentation
     6. Decoration:Traditional or modern?
     7. Any noticeable trends in restaurants of specific region
     ---
-    ## More Information
+    ## Techniques
     Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
     For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
   </textarea>
