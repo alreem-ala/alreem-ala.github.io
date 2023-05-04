@@ -9,9 +9,7 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    ## Our Final Presentation
-    ---
-
+    
     ## A Taste of Asia: Separating the Authentic from the Adapted in UAE Restaurants
     ---
     ## Scope
