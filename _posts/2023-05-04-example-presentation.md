@@ -2,7 +2,7 @@
 layout: slide
 title: Example Reveal.js Presentation Deck
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
-# theme: simple
+theme: serif
 transition: convex
 tags: [presentation]
 category: presentation
@@ -11,7 +11,7 @@ category: presentation
   <textarea data-template>
     ## Our Final Presentation
     ---
-      
+
     ## A Taste of Asia: Separating the Authentic from the Adapted in UAE Restaurants
     ---
     ## Scope
