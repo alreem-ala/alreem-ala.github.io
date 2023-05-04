@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
+title: Final Unproject
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 theme: serif
 transition: convex
@@ -9,7 +9,7 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    
+
     ## A Taste of Asia: Separating the Authentic from the Adapted in UAE Restaurants
     ---
     ## Scope
