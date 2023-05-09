@@ -37,11 +37,11 @@ category: presentation
     ## Values and Ethics:
     Honesty
     Authenticity
-     ---
+    ---
     ## Resources
     1. Cartographic representation
     2. Crowd-sourcing
     3. Web-develeoper for the website
-    
+
   </textarea>
 </section>
