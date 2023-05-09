@@ -30,11 +30,11 @@ category: presentation
     3. Orange mining - image
     4. Text analysis
     ---
-    ## Aim
+    ## Aim 🥘
     Our mission is to be your go-to resource for Abu Dhabi's thriving restaurant scene, covering the city's greatest restaurants in every price range, neighborhood, and cuisine. Our blog is here to guide you to the best restaurants and hidden treasures in Abu Dhabi, whether you're a native foodie or a tourist searching for the real deal.
     > Rather than a numerical rating, we are goiing to include pros and cons and specialty.
     ---
-    ## Values and Ethics:
+    ## Values and Ethics
     1. Honesty
     2. Authenticity
     ---
@@ -42,6 +42,14 @@ category: presentation
     1. Cartographic representation
     2. Crowd-sourcing
     3. Web-develeoper for the website
-  
+    ---
+    ### Workplan:
+    1. Decide on and collect metadata
+    2. Making a site and uploading the data of the restaurants on the site
+    3. Making a review section where people can talk about the restaurants or any specific dish of the restaurant  
+    4. The reviews will be short and anonymous
+    5. Up-voting and down-voting option for the restaurants and the dishes
+    6. Making an interactive map on the site which will give some basic information when hovered over
+
   </textarea>
 </section>
