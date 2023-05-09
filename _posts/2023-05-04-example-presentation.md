@@ -16,26 +16,33 @@ category: presentation
     Our projects main focus is to explore how authentic asian restaurants are in the UAE in terms of food and aesthetics of the place. 
     ---
     ## Data
-    1. Food menu: whether *all* food items are from the authentic cuisine
-    2. Additional taste: Whether they are changing their recipe to attract more customers
-    3. Additional ingredients: Whether they are adding local/other unusual ingredients
-    4. Additional foods: Whether they are adding local food items or those from the neighboring country for making their restaurant more appealing
-    5. Special techniques: Hotpot, chopsticks, using hands etc. 
-    6. Decoration:Traditional or modern?
+    1. Food menu
+    2. Additional taste
+    3. Additional ingredients
+    4. Additional foods
+    5. Special techniques
+    6. Decoration
     7. Any noticeable trends in restaurants of specific region
     ---
     ## Techniques
     Digitization
-Crowdsourcing
-Orange mining - image
-Text analysis
-
+    Crowdsourcing
+    Orange mining - image
+    Text analysis
+    ---
+    ## Aim
+    Our mission is to be your go-to resource for Abu Dhabi's thriving restaurant scene, covering the city's greatest restaurants in every price range, neighborhood, and cuisine. Our blog is here to guide you to the best restaurants and hidden treasures in Abu Dhabi, whether you're a native foodie or a tourist searching for the real deal.
+    > Rather than a numerical rating, we are goiing to include pros and cons and specialty.
+    ---
     ## Values and Ethics:
-Honesty
-Authenticity
+    Honesty
+    Authenticity
+     ---
+    ## Resources
+    1. Cartographic representation
+    2. Crowd-sourcing
+    3. Web-develeoper for the website
+    ## Values and Ethics:
 
-
-    Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
-    For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
   </textarea>
 </section>
