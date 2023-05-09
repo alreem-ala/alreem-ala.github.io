@@ -50,5 +50,6 @@ category: presentation
     4. The reviews will be short and anonymous
     5. Up-voting and down-voting option for the restaurants and the dishes
     6. Making an interactive map on the site which will give some basic information when hovered over
+  
   </textarea>
 </section>
