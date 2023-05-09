@@ -10,7 +10,7 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
 
-    ## A Taste of Asia: Separating the Authentic from the Adapted in UAE Restaurants
+    ## A Taste of Asia: Separating the Authentic from the Adapted in UAE Restaurants 🥘
     ---
     ## Scope
     Our projects main focus is to explore how authentic asian restaurants are in the UAE in terms of food and aesthetics of the place. 
@@ -30,7 +30,7 @@ category: presentation
     3. Orange mining - image
     4. Text analysis
     ---
-    ## Aim 🥘
+    ## Aim 
     Our mission is to be your go-to resource for Abu Dhabi's thriving restaurant scene, covering the city's greatest restaurants in every price range, neighborhood, and cuisine. Our blog is here to guide you to the best restaurants and hidden treasures in Abu Dhabi, whether you're a native foodie or a tourist searching for the real deal.
     > Rather than a numerical rating, we are goiing to include pros and cons and specialty.
     ---
