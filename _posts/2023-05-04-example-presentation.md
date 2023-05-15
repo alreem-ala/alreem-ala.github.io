@@ -13,9 +13,10 @@ category: presentation
     ## A Taste of Asia: Separating the Authentic from the Adapted in UAE Restaurants 🥘
     ---
     ## Scope
+    <img src="/assets/1.png" style="width:40%; height:25%; margin-left:10%;" />
     Our projects main focus is to explore how authentic asian restaurants are in the UAE in terms of food and aesthetics of the place. 
     ---
-    ## Data
+    ## Data 📊
     1. Food menu
     2. Additional taste
     3. Additional ingredients
@@ -27,19 +28,20 @@ category: presentation
     ## Techniques
     1. Digitization
     2. Crowdsourcing
-    3. Orange mining - image
+    3. Orange mining - image 🍊
     4. Text analysis
     ---
     ## Aim 
     Our mission is to be your go-to resource for Abu Dhabi's thriving restaurant scene, covering the city's greatest restaurants in every price range, neighborhood, and cuisine. Our blog is here to guide you to the best restaurants and hidden treasures in Abu Dhabi, whether you're a native foodie or a tourist searching for the real deal.
-    > Rather than a numerical rating, we are goiing to include pros and cons and specialty.
+    > Rather than a numerical rating, we are going to include pros and cons and specialty.
     ---
     ## Values and Ethics
+    <img src="/assets/2.jpeg" style="width:80%; height:50%; margin-left:10%;" />
     1. Honesty
     2. Authenticity
     ---
     ## Resources
-    1. Cartographic representation
+    1. Cartographic representation 🗺️
     2. Crowd-sourcing
     3. Web-develeoper for the website
     ---
@@ -50,6 +52,9 @@ category: presentation
     4. The reviews will be short and anonymous
     5. Up-voting and down-voting option for the restaurants and the dishes
     6. Making an interactive map on the site which will give some basic information when hovered over
+    ---
+    <img src="/assets/3.png" style="width:40%; height:25%; margin-left:10%;" />
+    Thank You!
 
   </textarea>
 </section>
